@@ -1,4 +1,4 @@
-package lab06.atividadeLab06;
+package lab06;
 import java.util.Scanner;
 
 public class Main{
